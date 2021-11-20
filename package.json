@@ -1,0 +1,22 @@
+{
+  "name": "wk-9",
+  "version": "1.0.0",
+  "description": "README generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobBurson/Wk-9.git"
+  },
+  "author": "RobBurson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RobBurson/Wk-9/issues"
+  },
+  "homepage": "https://github.com/RobBurson/Wk-9#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
