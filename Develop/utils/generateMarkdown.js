@@ -18,8 +18,9 @@ function generateMarkdown(data) {
   5. [Installation](#Installation)
   6. [Benefits](#Benefits)
   7. [Licenses](#Licenses)
-  8. [Contributions](#Contributions)
+  8. [Contributors](#Contributors)
   9. [Test](#Test)
+  10. [Questions](#Questions)
   
   # ${data.title}
 # Details
@@ -31,13 +32,15 @@ ${data.benefits}
 # Licenses
 ${data.licenses}
 # Contributions
-${data.contributions}
+${data.contributors}
 # Test
 ${data.test}
 # Github
 ${data.github}
 # Email
 ${data.email}
+# Questions
+${data.questions}
   `;
   }
   
