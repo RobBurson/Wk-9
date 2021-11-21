@@ -9,21 +9,21 @@
   8. [Contributions](#Contributions)
   9. [Test](#Test)
   
-  # README Generator
+  # Project
 # Details
-Use js and npm to create a README generator
+Lorem Ipsum
 # Installation
-n/a
+Lorem Ipsum
 # Benefits
-Quick and easy boilerplate README generation
+Lorem Ipsum
 # Licenses
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Contributions
-n/a
+No
 # Test
-Ran the code multiple times
+Lorem Ipsum
 # Github
-https://github.com/RobBurson
+RobBurson
 # Email
 rob.burson@bearsheregaming.com
   
