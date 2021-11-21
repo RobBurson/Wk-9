@@ -45,7 +45,7 @@ THEN I am taken to the corresponding section of the README
 * Open your terminal and navigate to the directory that houses the code of the project. Next open and run a terminal/command line and run the command - node index (or) node index.js.
   and answer the prompts as given. After answering, navigate to the GeneratedREADME file and open it in a program like VS Code and you can see all of your answers displayed there!
 
-![Demonstrative Video](./develop/GeneratorWalkthrough.gif)
+![Demonstrative Video](GeneratorWalkthrough.gif)
 
 
 
