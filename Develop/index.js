@@ -44,14 +44,19 @@ const questions = [
     },
     {
        type:'input',
-       name:'contributions',
-       message:'Were there any contributions and/or collaborators to your project',
+       name:'contributors',
+       message:'Were there any contributions and/or collaborators to your project?',
     },
     {
       type:'input',
       name:'test',
       message:'What steps were taken to test project?',
    },
+   {
+       type:'input',
+       name:'questions',
+       message:'How can you be contacted for future contributions or questions about the project?'
+   }
 ]
     function init() {
       inq.prompt(questions).then((data) => {
